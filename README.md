@@ -1,3 +1,7 @@
+This was a capstone project completed in November 2023.  This was the first of 3 projects with the end goal being full-stack web development.  This project focused on designing and making classes in Java for various vending products as well as using a command-line interface to interact with the machine.  Below were the requirements for the project. 
+
+
+
 ## Module 1 Capstone - Vending Machine Software
 
 You're developing an application for the newest vending machine distributor,
